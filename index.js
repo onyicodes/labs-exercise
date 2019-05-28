@@ -4,3 +4,7 @@ function add(x,y){
 function greetings(){
     return 'hello';
 }
+
+function divide(a,b){
+    return a/b
+}
